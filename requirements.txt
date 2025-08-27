@@ -1,0 +1,15 @@
+
+streamlit==1.29.0
+openai==1.35.0
+python-dotenv==1.0.0
+httpx==0.25.0
+httpcore==1.0.2
+
+
+pydub==0.25.1
+sounddevice==0.4.6
+numpy==1.24.3
+scipy==1.11.4
+
+
+ffmpeg-python==0.2.0
