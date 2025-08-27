@@ -576,8 +576,4 @@ else:
 # Footer
 st.divider()
 st.markdown("""
-<div style='text-align: center; color: #666; padding: 2rem;'>
-    <p>Built with ❤️ using Streamlit and OpenAI</p>
-    <p style='font-size: 0.9rem;'>Powered by Whisper & GPT Models</p>
-</div>
 """, unsafe_allow_html=True)
