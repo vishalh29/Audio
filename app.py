@@ -17,7 +17,7 @@ import queue
 load_dotenv()
 
 # Configuration - SET YOUR API KEY HERE
-OPENAI_API_KEY = "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"  # Replace with your actual API key
+OPENAI_API_KEY = "add api key"
 WHISPER_MODEL = "whisper-1"  # Default Whisper model
 GPT_MODEL = "gpt-4o-mini"  # Options: "gpt-4o-mini", "gpt-4o", "gpt-3.5-turbo"
 DEFAULT_SAMPLE_RATE = 16000  # Default sample rate for audio recording
